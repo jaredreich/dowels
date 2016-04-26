@@ -58,7 +58,7 @@ RewriteRule ^(.*) /index.html [NC,L]
 ```
 server {
 	listen					80;
-	server_name				premoted.com  www.premoted.com;
+	server_name				example.com  www.example.com;
 	location /app {
 		/path/to/index.html
 	}
