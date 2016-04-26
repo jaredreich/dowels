@@ -1,0 +1,25 @@
+{
+  "name": "dowels",
+  "description": "a tiny but powerful web framework that performs routing and templating to help you get your single-page web applications running in seconds without having to learn huge fancy frameworks.",
+  "main": "dowels.js",
+  "authors": [
+    "Jared Reich"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "routing",
+    "template",
+    "engine",
+    "framework"
+  ],
+  "moduleType": [],
+  "homepage": "https://dowels.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
