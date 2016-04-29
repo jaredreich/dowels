@@ -1,4 +1,8 @@
-**dowels** is a tiny but powerful web framework that performs client-side routing and templating to help you get your single-page web applications running in seconds without having to learn huge fancy frameworks like Angular, React, etc. Full demo and documentation coming soon.
+# dowels
+
+[![Join the chat at https://gitter.im/jaredreich/dowels](https://badges.gitter.im/jaredreich/dowels.svg)](https://gitter.im/jaredreich/dowels?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+dowels is a tiny but powerful web framework that performs client-side routing and templating to help you get your single-page web applications running in seconds without having to learn huge fancy frameworks like Angular, React, etc. Full demo and documentation coming soon.
 
 ![Alt text](/dowels.png?raw=true "logo")
 
