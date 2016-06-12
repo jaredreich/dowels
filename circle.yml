@@ -1,6 +1,8 @@
 machine:
   node:
     version: 4.0.0
+  python:
+    version: pypy-2.2.1
 
 test:
   post:

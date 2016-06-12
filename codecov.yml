@@ -35,7 +35,7 @@ coverage:
 
     webhook:
       default:
-        url: null
+        url: "https://gitter.im/jaredreich/dowels"
         threshold: null
         branches: null
         only_pulls: null
