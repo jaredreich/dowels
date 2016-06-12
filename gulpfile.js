@@ -9,7 +9,6 @@ gulp.task('clean', function() {
 
 gulp.task('script', function() {
     gulp.src('./src/dowels.js')
-		.pipe(gulp.dest('./dist'))
         .pipe(uglify())
         .pipe(rename('dowels.min.js'))
         .pipe(gulp.dest('./dist'));

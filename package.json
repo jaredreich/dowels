@@ -1,10 +1,10 @@
 {
   "name": "dowels",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a tiny but powerful web framework that performs routing and templating to help you get your single-page web applications running in seconds without having to learn huge fancy frameworks.",
   "main": "dowels.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./test/*.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://dowels.io",
   "devDependencies": {
+    "chai": "^3.5.0",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-coveralls": "^0.1.4",
