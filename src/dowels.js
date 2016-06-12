@@ -181,7 +181,6 @@ var dowels = function() {
 
         // perform includes
         var includes = templateHTML.match(/<# include (.*) #>/g) || [];
-        console.log(includes);
         for (var i = 0; i < includes.length; i++) {
             var include = includes[i].replace('<# ', '').replace(' #>', '');
             include = include.split(' ')[1];
