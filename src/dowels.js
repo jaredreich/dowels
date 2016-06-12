@@ -318,7 +318,6 @@ var dowels = function() {
         back: back,
         redirect: redirect,
         render: render,
-        include: include,
         request: request,
         renderAfterRequest: renderAfterRequest
     }
