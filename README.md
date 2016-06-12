@@ -1,11 +1,8 @@
-# dowels
+![Alt text](/dowels.png?raw=true "logo")
 
 [![Join the chat at https://gitter.im/jaredreich/dowels](https://badges.gitter.im/jaredreich/dowels.svg)](https://gitter.im/jaredreich/dowels?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![codecov](https://codecov.io/gh/jaredreich/dowels/branch/master/graph/badge.svg)](https://codecov.io/gh/jaredreich/dowels)
 
-
 dowels is a tiny but powerful javascript library that performs client-side routing, templating, and REST API communication to help you get your single-page web applications running in seconds without having to learn huge fancy frameworks like Angular, React, etc. Demo: https://jaredreich.com/projects/dowels
-
-![Alt text](/dowels.png?raw=true "logo")
 
 ## Features
 - Pure JavaScript (no dependencies)
