@@ -23,7 +23,7 @@ HTML:
 ```html
 <body>
 	...
-	<script src="/path/to/dowels.js"></script>
+	<script src="https://unpkg.com/dowels"></script>
 </body>
 ```
 npm:
